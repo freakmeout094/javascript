@@ -1,0 +1,1 @@
+console.log("2"===2)//  use === to compare diff data types here the data type is not changed

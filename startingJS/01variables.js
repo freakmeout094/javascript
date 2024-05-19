@@ -6,4 +6,6 @@ let accountState;  // value of the variable is not defined
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]) //multiple output in table form
 
-
+// there are two types of data
+// first - primitive (strings,num,bool,null,undefined,symbols)
+// second- reference (array,objects,functions)
